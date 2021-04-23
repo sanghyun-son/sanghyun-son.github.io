@@ -24,10 +24,12 @@ My research topics also include network optimization and acceleration to handle 
 
 - One paper got accepted to **[CVPR 2021](http://cvpr2021.thecvf.com/)**!
   - **Sanghyun Son** and Kyoung Mu Lee, "SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation."
+  - Code and demo will be released soon.
 
 - I am co-organizing the **[6th NTIRE workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/)** in conjunction with **[CVPR 2021](http://cvpr2021.thecvf.com/)**. Me, [Seungjun Nah](https://seungjunnah.github.io/) and Suyoung Lee are in charge of the following image deblurring and video super-resolution challenge tracks:
   - **Image Deblurring** Track 1. Low Resolution, Track 2. JPEG artifacts,
   - **Video Super-Resolution** Track 1. Spatial, Track 2. Spatio-Temporal.
+  - Detailed challenge reports will be presented in the upcoming NTIRE 2021 workshop.
 
 - I have implemented an efficient bicubic resizing algorithm in PyTorch that is compatible with the MATLAB reference. Please check it from [here](https://github.com/sanghyun-son/bicubic_pytorch).
 
