@@ -1,6 +1,6 @@
-title: Sanghyun Son
+title: <p>Sanghyun Son<br>(손상현)</p>
 logo: https://cv.snu.ac.kr/member/images/shson.jpg
-description: #<p><b>Ph. D candidate</b><br>Department of ECE, Seoul National University (SNU), Seoul, Korea</p>
+description:
 show_downloads: false
-google_analytics:
+google_analytics: UA-191381811-3
 theme: jekyll-theme-minimal
