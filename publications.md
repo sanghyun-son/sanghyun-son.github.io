@@ -11,14 +11,17 @@ Proc. Computer Vision and Pattern Recognition (**CVPR**), 2021.
 
 - Seungjun Nah, **Sanghyun Son**, Jaerin Lee, and Kyoung Mu Lee,
 "Clean Images are Hard to Reblur: A New Clue for Deblurring,"
-<i>arXiv preprint arXiv:2104.12665</i>, 2021. [[arXiv](http://arxiv.org/abs/2104.12665)]
+<i>arXiv preprint arXiv:2104.12665</i>, 2021.
+[[arXiv](http://arxiv.org/abs/2104.12665)]
+
 - **Sanghyun Son***, Jaeha Kim*, Wei-Sheng Lai, Ming-Hsuan Yang, and Kyoung Mu Lee,
 "Toward Real-World Super-Resolution via Adaptive Downsampling Models,"
 _under review_.
 
 - **Sanghyun Son** and Kyoung Mu Lee,
 "Image Super-Resolution,"
-in Ikeuchi K. (eds) Computer Vision. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-03243-2_838-1](https://doi.org/10.1007/978-3-030-03243-2\_838-1)
+in Ikeuchi K. (eds) Computer Vision. Springer, Cham, 2021.
+[https://doi.org/10.1007/978-3-030-03243-2_838-1](https://doi.org/10.1007/978-3-030-03243-2\_838-1)
 
 - Seungjun Nah, **Sanghyun Son**, and Kyoung Mu Lee,
 "Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring,"
@@ -41,7 +44,7 @@ Proc. European Conference on Computer Vision (**ECCV**), 2018.
 [[code (PyTorch)](https://github.com/sanghyun-son/EDSR-PyTorch)]
 
 
-## **Challenge Reports**
+## **Challenge Reports and Dataset**
 
 - **Sanghyun Son**, Suyoung Lee, Seungjun Nah, Radu Timofte, and Kyoung Mu Lee,
 "NTIRE 2021 Challenge on Video Super-Resolution,"
@@ -65,5 +68,10 @@ Proc. European Conference on Computer Vision (**ECCV**), 2018.
 "AIM 2019 Challenge on Video Temporal Super-Resolution: Methods and Results,"
 **AIM 2019** workshop in conjunction with **ICCV**, 2019.
 [[arXiv](https://arxiv.org/abs/2005.01233)]
+
+- Seungjun Nah, Sungyong Baik, Seokil Hong, Gyeongsik Moon, **Sanghyun Son**, Radu Timofte, and Kyoung Mu Lee,
+"NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study,"
+**NTIRE 2019** workshop in conjunction with **CVPR**, 2019.
+[[PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)]
 
 [back](./)
