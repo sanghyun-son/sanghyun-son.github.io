@@ -21,7 +21,7 @@ _under review_.
 - **Sanghyun Son** and Kyoung Mu Lee,
 "Image Super-Resolution,"
 in Ikeuchi K. (eds) Computer Vision. Springer, Cham, 2021.
-[https://doi.org/10.1007/978-3-030-03243-2_838-1](https://doi.org/10.1007/978-3-030-03243-2\_838-1)
+[https://doi.org/10.1007/978-3-030-03243-2_838-1](https://doi.org/10.1007/978-3-030-03243-2_838-1)
 
 - Seungjun Nah, **Sanghyun Son**, and Kyoung Mu Lee,
 "Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring,"
