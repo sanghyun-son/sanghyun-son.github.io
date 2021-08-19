@@ -4,10 +4,13 @@ layout: default
 
 ## **Publications**
 
+- Geonwoon Jang, Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "C2N: Practical Generative Noise Modeling for Real-World Denoising," Proc. International Conference on Computer Vision
+(**ICCV**), 2021.
+
 - **Sanghyun Son** and Kyoung Mu Lee,
 "SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation,"
 Proc. Computer Vision and Pattern Recognition (**CVPR**), 2021.
-[[arXiv](https://arxiv.org/abs/2104.10325)][[code](https://github.com/sanghyun-son/srwarp)]
+[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Son_SRWarp_Generalized_Image_Super-Resolution_under_Arbitrary_Transformation_CVPR_2021_paper.pdf)] [[Supplementary material](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Son_SRWarp_Generalized_Image_CVPR_2021_supplemental.pdf)] [[Poster](https://cv.snu.ac.kr/sanghyun_son/srwarp/srwarp_poster.pdf)] [[Video](https://cv.snu.ac.kr/sanghyun_son/srwarp/srwarp_video.mkv)] [[code](https://github.com/sanghyun-son/srwarp)]
 
 - Seungjun Nah, **Sanghyun Son**, Jaerin Lee, and Kyoung Mu Lee,
 "Clean Images are Hard to Reblur: A New Clue for Deblurring,"
@@ -15,8 +18,7 @@ Proc. Computer Vision and Pattern Recognition (**CVPR**), 2021.
 [[arXiv](http://arxiv.org/abs/2104.12665)]
 
 - **Sanghyun Son***, Jaeha Kim*, Wei-Sheng Lai, Ming-Hsuan Yang, and Kyoung Mu Lee,
-"Toward Real-World Super-Resolution via Adaptive Downsampling Models,"
-_under review_.
+"Toward Real-World Super-Resolution via Adaptive Downsampling Models," IEEE Trans. on Patter Recognition and Machine Intelligence (**TPAMI**), _accepted_. [[PDF](https://cv.snu.ac.kr/sanghyun_son/ADL_TPAMI_accepted.pdf)] [[Supplementary material](https://cv.snu.ac.kr/sanghyun_son/ADL_TPAMI_accepted_supp.pdf)]
 
 - **Sanghyun Son** and Kyoung Mu Lee,
 "Image Super-Resolution,"
@@ -48,11 +50,11 @@ Proc. European Conference on Computer Vision (**ECCV**), 2018.
 
 - **Sanghyun Son**, Suyoung Lee, Seungjun Nah, Radu Timofte, and Kyoung Mu Lee,
 "NTIRE 2021 Challenge on Video Super-Resolution,"
-**NTIRE 2021** workshop in conjunction with **CVPR**, 2021.
+**NTIRE 2021** workshop in conjunction with **CVPR**, 2021. [[arXiv](https://arxiv.org/abs/2104.14852)]
 
 - Seungjun Nah, **Sanghyun Son**, Suyoung Lee, Radu Timofte, and Kyoung Mu Lee,
 "NTIRE 2021 Challenge on Image Deblurring,"
-**NTIRE 2021** workshop in conjunction with **CVPR**, 2021.
+**NTIRE 2021** workshop in conjunction with **CVPR**, 2021. [[arXiv](https://arxiv.org/abs/2104.14854)]
 
 - **Sanghyun Son**, Jaerin Lee, Seungjun Nah, Radu Timofte, and Kyoung Mu Lee,
 "AIM 2020 Challenge on Video Temporal Super-Resolution,"
