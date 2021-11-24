@@ -3,7 +3,7 @@ layout: default
 title: Sanghyun Son
 ---
 
-# [Publications](./publications.html) | [CV](https://cv.snu.ac.kr/sanghyun_son/sanghyun_son_cv.pdf)
+# [Publications](./publications.md) | [CV](./cv.pdf)
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
