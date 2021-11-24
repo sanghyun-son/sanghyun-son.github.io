@@ -22,6 +22,8 @@ My research topics also include network optimization and acceleration to handle 
 
 ## **News**
 
+- I won the Qualcomm Innovation Fellowship Korea 2021!
+
 - One paper got accepted to **[ICCV 2021](http://iccv2021.thecvf.com/home)**!
   - Geonwoon Jang, Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "C2N: Practical Generative Noise Modeling for Real-World Denoising."
   - Code and demo will be released soon.
