@@ -21,6 +21,9 @@ My research topics also include network optimization and acceleration to handle 
 
 
 ## **News**
+- I won the Youlchon AI Stars Scholarship 2022!
+&nbsp;
+
 - Two papers got accepted to **[CVPR 2022](https://cvpr2022.thecvf.com/)**!
   - Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network."
   - Reyhaneh Neshatavar, Mohsen Yavartanoo, **Sanghyun Son**, and Kyoung Mu Lee, "CVF-SID: Cyclic Multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image."
