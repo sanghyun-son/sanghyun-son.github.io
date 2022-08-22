@@ -24,6 +24,9 @@ My research topics also include network optimization and acceleration to handle 
 - I won the Youlchon AI Stars Scholarship 2022!
 &nbsp;
 
+- I won the KCCV Sang-Uk Lee Prize from KCCV 2022!
+&nbsp;
+
 - Two papers got accepted to **[CVPR 2022](https://cvpr2022.thecvf.com/)**!
   - Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network."
   - Reyhaneh Neshatavar, Mohsen Yavartanoo, **Sanghyun Son**, and Kyoung Mu Lee, "CVF-SID: Cyclic Multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image."
@@ -63,6 +66,7 @@ My research topics also include network optimization and acceleration to handle 
 
 ## Awards and Honors
 
+- **The KCCV Sang-Uk Lee prize** (Test of Time award) from KCCV 2022.
 - **Winner** of Qualcomm Innovation Fellowship Korea 2021.
 - **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
 - **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017.
