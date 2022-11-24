@@ -30,7 +30,7 @@ Proc. Computer Vision and Pattern Recognition (**CVPR**), 2021. [[PDF](https://o
 
 - **Sanghyun Son***, Jaeha Kim*, Wei-Sheng Lai, Ming-Hsuan Yang, and Kyoung Mu Lee,
 "Toward Real-World Super-Resolution via Adaptive Downsampling Models,"
-IEEE Trans. on Patter Recognition and Machine Intelligence (**TPAMI**), _accepted_. [[PDF](https://cv.snu.ac.kr/sanghyun_son/ADL_TPAMI_accepted.pdf)] [[Supplementary material](https://cv.snu.ac.kr/sanghyun_son/ADL_TPAMI_accepted_supp.pdf)][[Project page](https://cv.snu.ac.kr/research/ADL/)][[code](https://github.com/JaehaKim97/Adaptive-Downsampling-Model)]
+IEEE Trans. on Patter Recognition and Machine Intelligence (**IEEE TPAMI**), _vol. 44, no. 11, pp. 8567-8670_, 2022. [[PDF](https://cv.snu.ac.kr/sanghyun_son/ADL_TPAMI_accepted.pdf)] [[Supplementary material](https://cv.snu.ac.kr/sanghyun_son/ADL_TPAMI_accepted_supp.pdf)][[Project page](https://cv.snu.ac.kr/research/ADL/)][[code](https://github.com/JaehaKim97/Adaptive-Downsampling-Model)]
 &nbsp;
 
 - **Sanghyun Son** and Kyoung Mu Lee,
