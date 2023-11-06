@@ -6,11 +6,11 @@ title: Sanghyun Son
 # [Publications](./publications.md) | [CV](./cv.pdf)
 
 **Ph.D candidate** \
-**Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
-**Email**: sonsang35(at)gmail(dot)com, thstkdgus35(at)snu(dot)ac(dot)kr \
+**Affiliation**: Computer Vision TU, AI Research Center, SAIT, Samsung Electronics \
+**Email**: sonsang35(at)gmail(dot)com \
 **Google scholar**: [profile](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
-I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
+I am a Ph.D. researcher from SNU Computer Vision Lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
 
 
 ## **Research Interests**
@@ -21,10 +21,23 @@ My research topics also include network optimization and acceleration to handle 
 
 
 ## **News**
+- Now I am with Samsung Advanced Institute of Technology!
+&nbsp;
+
 - I won the Youlchon AI Stars Scholarship 2022!
 &nbsp;
 
 - I won the KCCV Sang-Uk Lee Prize from KCCV 2022!
+&nbsp;
+
+- One paper got accepted to **[WACV 2024](https://wacv2024.thecvf.com/)**!
+  - Reyhaneh Neshatavar*, Mohsen Yavartanoo*, **Sanghyun Son**, and Kyoung Mu Lee,
+  "ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution."
+&nbsp;
+
+- One paper got accepted to **[ICCV 2023](https://iccv2023.thecvf.com/)**!
+  - Joonkyu Park, **Sanghyun Son**, and Kyoung Mu Lee,
+  "Content-Aware Local GAN for Photo-Realistic Super-Resolution."
 &nbsp;
 
 - Two papers got accepted to **[CVPR 2022](https://cvpr2022.thecvf.com/)**!

@@ -3,6 +3,16 @@ layout: default
 ---
 
 ## **Publications**
+- Reyhaneh Neshatavar*, Mohsen Yavartanoo*, **Sanghyun Son**, and Kyoung Mu Lee,
+``ICF-SRSR: Invertible scale-Conditional Function for Self-Supervised Real-world Single Image Super-Resolution,''
+Proc. Winter Conference on Applications of Computer Vision (**WACV**), 2024.
+&nbsp;
+
+- Joonkyu Park, **Sanghyun Son**, and Kyoung Mu Lee,
+``Content-Aware Local GAN for Photo-Realistic Super-Resolution,''
+Proc. International Conference on Computer Vision (**ICCV**), 2023.
+&nbsp;
+
 - Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee,
 "AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network,"
 Proc. Computer Vision and Pattern Recognition (**CVPR**), 2022.
