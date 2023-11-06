@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Sanghyun Son
+title: Sanghyun Son, Ph.D.
 ---
 
-# [Publications](./publications.md) | [CV](./cv.pdf)
+# [Publications](./publications.md) | [CV](./cv.pdf) | [Google Scholar](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
-**Ph.D candidate** \
 **Affiliation**: Computer Vision TU, AI Research Center, SAIT, Samsung Electronics \
 **Email**: sonsang35(at)gmail(dot)com \
-**Google scholar**: [profile](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
-I am a Ph.D. researcher from SNU Computer Vision Lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
+I received my Ph.D. degree from the Department of ECE, Seoul National University, Seoul, Korea. \
+Thesis: Generalized Resampling Model for Practical Image Super-Resolution \
+Computer Vision Lab, Advisor: [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
 
 
 ## **Research Interests**
@@ -21,7 +21,8 @@ My research topics also include network optimization and acceleration to handle 
 
 
 ## **News**
-- Now I am with Samsung Advanced Institute of Technology!
+- Now I am with Samsung Electronics! \
+Computer Vision TU, AI Research Center, SAIT
 &nbsp;
 
 - I won the Youlchon AI Stars Scholarship 2022!
