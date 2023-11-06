@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Sanghyun Son, Ph.D.
+title: Sanghyun Son
 ---
 
 # [Publications](./publications.md) | [CV](./cv.pdf) | [Google Scholar](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
 **Affiliation**: Computer Vision TU, AI Research Center, SAIT, Samsung Electronics \
-**Email**: sonsang35(at)gmail(dot)com \
+**Email**: sonsang35(at)gmail(dot)com
+
 
 I received my Ph.D. degree from the Department of ECE, Seoul National University, Seoul, Korea. \
-Thesis: Generalized Resampling Model for Practical Image Super-Resolution \
-Computer Vision Lab, Advisor: [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/)
+Computer Vision Lab, Advisor: [**Prof. Kyoung Mu Lee**](https://cv.snu.ac.kr/index.php/kmlee/) \
+*Thesis: Generalized Resampling Model for Practical Image Super-Resolution*
 
 
 ## **Research Interests**
