@@ -5,7 +5,7 @@ title: Sanghyun Son
 
 # [Publications](./publications.md) | [CV](./cv.pdf) | [Google Scholar](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
-**Affiliation**: Computer Vision TU, AI Research Center, SAIT, Samsung Electronics \
+**Affiliation**: Computer Vision TU, AI Research Center, SAIT, **Samsung Electronics** \
 **Email**: sonsang35(at)gmail(dot)com
 
 
@@ -22,14 +22,14 @@ My research topics also include network optimization and acceleration to handle 
 
 
 ## **News**
-- Now I am with Samsung Electronics! \
+- Now I am with **Samsung Electronics**! \
 Computer Vision TU, AI Research Center, SAIT
 &nbsp;
 
-- I won the Youlchon AI Stars Scholarship 2022!
+- I won the **Youlchon AI Stars Scholarship 2022**!
 &nbsp;
 
-- I won the KCCV Sang-Uk Lee Prize from KCCV 2022!
+- I won the **KCCV Sang-Uk Lee Prize from KCCV 2022**!
 &nbsp;
 
 - One paper got accepted to **[WACV 2024](https://wacv2024.thecvf.com/)**!
