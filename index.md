@@ -86,3 +86,8 @@ Computer Vision TU, AI Research Center, SAIT
 - **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
 - **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017.
 - **Graduated with _summa cum laude_**: B.S. in Department of ECE, Seoul National University, 2017.
+
+
+## Personal Pages
+- I enjoy playing video games, especially Nintendo Switch and some simulation games on Steam.
+  - [Gaming archive](./gaming.md)
