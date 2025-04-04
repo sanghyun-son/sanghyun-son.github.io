@@ -14,11 +14,17 @@ Computer Vision Lab, Advisor: [**Prof. Kyoung Mu Lee**](https://cv.snu.ac.kr/ind
 *Thesis: Generalized Resampling Model for Practical Image Super-Resolution*
 
 
-## **Research Interests**
+## **Interests**
 
-I am interested in deep learning and low-level image restoration problems, especially **image super-resolution** and **deblurring**.
-Recently I mainly working on reconstructing high-resolution images from real-world inputs.
-My research topics also include network optimization and acceleration to handle practical issues in deep learning.
+I received my Ph.D. degree from the Department of ECE, Seoul National University, Seoul, Korea.
+My Ph.D. thesis focuses on deep learning and **low-level image restoration problems**, particularly image super-resolution.
+My primary research interest lies in deep learning-based image processing to achieve superior image quality from in-the-wild inputs.
+
+Currently, I am with the **AI Center at Samsung Electronics**.
+I have been fascinated by the immense potential of large language models (LLMs) and am actively exploring their applications, particularly in large-scale in-house datasets and manufacturing process optimization.
+
+Beyond my research, I am deeply interested in analyzing various open-source libraries and frameworks, as well as understanding how complex systems operate efficiently in large-scale distributed environments.
+I also enjoy working on side projects that integrate AI into daily life.
 
 
 ## **News**
