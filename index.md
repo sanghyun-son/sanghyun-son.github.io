@@ -5,7 +5,7 @@ title: Sanghyun Son
 
 # [Publications](./publications.md) | [CV](./cv.pdf) | [Google Scholar](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
-**Affiliation**: Computer Vision TU, AI Research Center, SAIT, **Samsung Electronics** \
+**Affiliation**: AI Development, AI Center, **Samsung Electronics** \
 **Email**: sonsang35(at)gmail(dot)com
 
 
