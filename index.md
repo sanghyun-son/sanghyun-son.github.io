@@ -5,7 +5,7 @@ title: Sanghyun Son
 
 # [Publications](./publications.md) | [CV](./cv.pdf) | [Google Scholar](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
 
-**Affiliation**: AI Development, AI Center, **Samsung Electronics** \
+**Affiliation**: TwelveLabs \
 **Email**: sonsang35(at)gmail(dot)com
 
 
@@ -15,21 +15,17 @@ Computer Vision Lab, Advisor: [**Prof. Kyoung Mu Lee**](https://cv.snu.ac.kr/ind
 
 
 ## **Interests**
+I received my Ph.D. in Electrical and Computer Engineering from Seoul National University, where my research focused on image restoration and super-resolution. My academic work includes the widely cited EDSR paper, with over 9,900 citations and 2,600 stars, reflecting both scholarly and community impact.
 
-I received my Ph.D. degree from the Department of ECE, Seoul National University, Seoul, Korea.
-My Ph.D. thesis focuses on deep learning and **low-level image restoration problems**, particularly image super-resolution.
-My primary research interest lies in deep learning-based image processing to achieve superior image quality from in-the-wild inputs.
+At TwelveLabs, I build a knowledge-graph-based agentic platform that turns raw video into structured, queryable understanding. I design the system architecture and lead cross-product integrations, while helping accelerate teams and establish an engaging team culture.
 
-Currently, I am with the **AI Center at Samsung Electronics**.
-I have been fascinated by the immense potential of large language models (LLMs) and am actively exploring their applications, particularly in large-scale in-house datasets and manufacturing process optimization.
+Previously at Samsung Electronics, I deployed fine-tuned LLMs to over 10K internal engineers, trained 70B reasoning models across 128+ GPUs, and led cross-functional teams for LLM infrastructure and manufacturing process automation.
 
-Beyond my research, I am deeply interested in analyzing various open-source libraries and frameworks, as well as understanding how complex systems operate efficiently in large-scale distributed environments.
-I also enjoy working on side projects that integrate AI into daily life.
+I love building things with a team that has great energy. I also find it very rewarding to build systems and tools that make the whole team faster and more efficient. For me, the best part of the job is looking at what we created together and feeling proud of our work. I want to keep building great tech in a fun environment where we can all be excited about what we achieve as a team.
 
 
 ## **News**
-- Now I am with **Samsung Electronics**! \
-Computer Vision TU, AI Research Center, SAIT
+- I joined **[TwelveLabs](https://www.twelvelabs.io/ko/)** as a AI Research Engineer! \
 &nbsp;
 
 - I won the **Youlchon AI Stars Scholarship 2022**!
