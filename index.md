@@ -25,7 +25,7 @@ I love building things with a team that has great energy. I also find it very re
 
 
 ## **News**
-- I joined **[TwelveLabs](https://www.twelvelabs.io/ko/)** as a AI Research Engineer! \
+- I joined **[TwelveLabs](https://www.twelvelabs.io/ko/)** as a AI Research Engineer.
 &nbsp;
 
 - I won the **Youlchon AI Stars Scholarship 2022**!
